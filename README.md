@@ -20,10 +20,9 @@
 
 <p align="center">
   <b>NOMBRE COMPLETO:</b> Lugo Manzano Rodrigo <br>
-  <b>N° de Cuenta:</b> 320206968 <br>
+  <b>No. de Cuenta:</b> 320206968 <br>
   <b>GRUPO DE LABORATORIO:</b> 03 <br>
   <b>GRUPO DE TEORÍA:</b> 02 <br>
   <b>SEMESTRE:</b> 2026-1 <br>
-  <b>FECHA DE ENTREGA LÍMITE:</b> 24/agosto/2025
 </p>
 
