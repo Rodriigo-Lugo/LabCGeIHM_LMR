@@ -1,0 +1,52 @@
+=========KEYFRAME [0]==========
+KeyFrame[0].movAvion_x = 0.000f;
+KeyFrame[0].movAvion_y = 0.000f;
+KeyFrame[0].giroAvion  = 0.000;
+=========KEYFRAME [1]==========
+KeyFrame[1].movAvion_x = -2.000f;
+KeyFrame[1].movAvion_y = 4.000f;
+KeyFrame[1].giroAvion  = 0.000;
+=========KEYFRAME [2]==========
+KeyFrame[2].movAvion_x = -4.000f;
+KeyFrame[2].movAvion_y = 0.000f;
+KeyFrame[2].giroAvion  = 0.000;
+=========KEYFRAME [3]==========
+KeyFrame[3].movAvion_x = -6.000f;
+KeyFrame[3].movAvion_y = -4.000f;
+KeyFrame[3].giroAvion  = 0.000;
+=========KEYFRAME [4]==========
+KeyFrame[4].movAvion_x = -8.000f;
+KeyFrame[4].movAvion_y = 0.000f;
+KeyFrame[4].giroAvion  = 0.000;
+=========KEYFRAME [5]==========
+KeyFrame[5].movAvion_x = -10.000f;
+KeyFrame[5].movAvion_y = 4.000f;
+KeyFrame[5].giroAvion  = 0.000;
+=========KEYFRAME [6]==========
+KeyFrame[6].movAvion_x = -10.000f;
+KeyFrame[6].movAvion_y = 4.000f;
+KeyFrame[6].giroAvion  = 180.000;
+=========KEYFRAME [7]==========
+KeyFrame[7].movAvion_x = -8.000f;
+KeyFrame[7].movAvion_y = -0.000f;
+KeyFrame[7].giroAvion  = 180.000;
+=========KEYFRAME [8]==========
+KeyFrame[8].movAvion_x = -6.000f;
+KeyFrame[8].movAvion_y = -4.000f;
+KeyFrame[8].giroAvion  = 180.000;
+=========KEYFRAME [9]==========
+KeyFrame[9].movAvion_x = -4.000f;
+KeyFrame[9].movAvion_y = -0.000f;
+KeyFrame[9].giroAvion  = 180.000;
+=========KEYFRAME [10]==========
+KeyFrame[10].movAvion_x = -2.000f;
+KeyFrame[10].movAvion_y = 4.000f;
+KeyFrame[10].giroAvion  = 180.000;
+=========KEYFRAME [11]==========
+KeyFrame[11].movAvion_x = -0.000f;
+KeyFrame[11].movAvion_y = -0.000f;
+KeyFrame[11].giroAvion  = 180.000;
+=========KEYFRAME [12]==========
+KeyFrame[12].movAvion_x = -0.000f;
+KeyFrame[12].movAvion_y = -0.000f;
+KeyFrame[12].giroAvion  = 0.000;
