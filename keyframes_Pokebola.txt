@@ -1,0 +1,96 @@
+=========KEYFRAME [0]==========
+KeyFrame[0].movPokebola_x = 0.000f;
+KeyFrame[0].movPokebola_y = 0.000f;
+KeyFrame[0].giroPokebola  = 0.000;
+=========KEYFRAME [1]==========
+KeyFrame[1].movPokebola_x = -1.000f;
+KeyFrame[1].movPokebola_y = 0.000f;
+KeyFrame[1].giroPokebola  = 90.000;
+=========KEYFRAME [2]==========
+KeyFrame[2].movPokebola_x = -2.000f;
+KeyFrame[2].movPokebola_y = 0.000f;
+KeyFrame[2].giroPokebola  = 180.000;
+=========KEYFRAME [3]==========
+KeyFrame[3].movPokebola_x = -3.000f;
+KeyFrame[3].movPokebola_y = 0.000f;
+KeyFrame[3].giroPokebola  = 270.000;
+=========KEYFRAME [4]==========
+KeyFrame[4].movPokebola_x = -4.000f;
+KeyFrame[4].movPokebola_y = 0.000f;
+KeyFrame[4].giroPokebola  = 360.000;
+=========KEYFRAME [5]==========
+KeyFrame[5].movPokebola_x = -5.000f;
+KeyFrame[5].movPokebola_y = 0.000f;
+KeyFrame[5].giroPokebola  = 450.000;
+=========KEYFRAME [6]==========
+KeyFrame[6].movPokebola_x = -6.000f;
+KeyFrame[6].movPokebola_y = 0.000f;
+KeyFrame[6].giroPokebola  = 540.000;
+=========KEYFRAME [7]==========
+KeyFrame[7].movPokebola_x = -7.000f;
+KeyFrame[7].movPokebola_y = 0.000f;
+KeyFrame[7].giroPokebola  = 630.000;
+=========KEYFRAME [8]==========
+KeyFrame[8].movPokebola_x = -8.000f;
+KeyFrame[8].movPokebola_y = 0.000f;
+KeyFrame[8].giroPokebola  = 720.000;
+=========KEYFRAME [9]==========
+KeyFrame[9].movPokebola_x = -9.500f;
+KeyFrame[9].movPokebola_y = -0.500f;
+KeyFrame[9].giroPokebola  = 809.997;
+=========KEYFRAME [10]==========
+KeyFrame[10].movPokebola_x = -10.500f;
+KeyFrame[10].movPokebola_y = -1.000f;
+KeyFrame[10].giroPokebola  = 899.994;
+=========KEYFRAME [11]==========
+KeyFrame[11].movPokebola_x = -11.500f;
+KeyFrame[11].movPokebola_y = -1.500f;
+KeyFrame[11].giroPokebola  = 989.990;
+=========KEYFRAME [12]==========
+KeyFrame[12].movPokebola_x = -12.500f;
+KeyFrame[12].movPokebola_y = -2.000f;
+KeyFrame[12].giroPokebola  = 1079.986;
+=========KEYFRAME [13]==========
+KeyFrame[13].movPokebola_x = -13.500f;
+KeyFrame[13].movPokebola_y = -2.500f;
+KeyFrame[13].giroPokebola  = 1169.983;
+=========KEYFRAME [14]==========
+KeyFrame[14].movPokebola_x = -14.500f;
+KeyFrame[14].movPokebola_y = -3.000f;
+KeyFrame[14].giroPokebola  = 1259.979;
+=========KEYFRAME [15]==========
+KeyFrame[15].movPokebola_x = -15.500f;
+KeyFrame[15].movPokebola_y = -3.500f;
+KeyFrame[15].giroPokebola  = 1349.975;
+=========KEYFRAME [16]==========
+KeyFrame[16].movPokebola_x = -16.500f;
+KeyFrame[16].movPokebola_y = -4.000f;
+KeyFrame[16].giroPokebola  = 1439.972;
+=========KEYFRAME [17]==========
+KeyFrame[17].movPokebola_x = -17.500f;
+KeyFrame[17].movPokebola_y = -4.000f;
+KeyFrame[17].giroPokebola  = 1529.968;
+=========KEYFRAME [18]==========
+KeyFrame[18].movPokebola_x = -18.500f;
+KeyFrame[18].movPokebola_y = -4.000f;
+KeyFrame[18].giroPokebola  = 1619.964;
+=========KEYFRAME [19]==========
+KeyFrame[19].movPokebola_x = -19.500f;
+KeyFrame[19].movPokebola_y = -4.000f;
+KeyFrame[19].giroPokebola  = 1709.964;
+=========KEYFRAME [20]==========
+KeyFrame[20].movPokebola_x = -20.500f;
+KeyFrame[20].movPokebola_y = -4.000f;
+KeyFrame[20].giroPokebola  = 1799.964;
+=========KEYFRAME [21]==========
+KeyFrame[21].movPokebola_x = -21.500f;
+KeyFrame[21].movPokebola_y = -4.000f;
+KeyFrame[21].giroPokebola  = 1889.964;
+=========KEYFRAME [22]==========
+KeyFrame[22].movPokebola_x = -22.501f;
+KeyFrame[22].movPokebola_y = -4.000f;
+KeyFrame[22].giroPokebola  = 1979.968;
+=========KEYFRAME [23]==========
+KeyFrame[23].movPokebola_x = -23.501f;
+KeyFrame[23].movPokebola_y = -4.000f;
+KeyFrame[23].giroPokebola  = 2069.968;
